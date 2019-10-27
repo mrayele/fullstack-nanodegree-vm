@@ -1,0 +1,187 @@
+00.01.01. Welcome to Udacity
+00.01.02. Welcome to the Nanodegree Program
+00.01.03. Nanodegree Program Introduction
+00.01.04. How To Succeed
+01.01.01. Course Overview and Project
+01.01.02. Prerequisites and Tech Stack
+01.01.03. Required Software
+02.01.01. Course Overview & Project
+02.01.02. Requirements & Tech Stack
+02.01.03. Required Software
+02.02.01. Lesson Overview
+02.02.02. Relational Databases
+02.02.03. Primary Keys & Foreign Keys
+02.02.04. SQL
+02.02.05. Execution Plan
+02.02.06. Client-Server Model
+02.02.07. Example- Jane’s Store
+02.02.08. Example 2- Jane’s Store
+02.02.09. TCP/IP
+02.02.10. Connections and Sessions in TCP/IP
+02.02.11. Transactions
+02.02.12. Installing Software
+02.02.13. Postgres Command Line Applications
+02.02.14. Intro to PSQL
+02.02.15. Using psql- SQL Commands
+02.02.16. Using psql- Final Remarks
+02.02.17. Other Postgres Clients
+02.02.18. DBAPIs and psycopg2
+02.02.19. psycopg2: basic usage
+02.02.20. psycopg2: string composition
+02.02.21. psycopg2: fetching results
+02.02.22. Recap
+02.03.01. Introduction
+02.03.02. Layers of Abstraction
+02.03.04. The Dialect
+02.03.05. The Connection Pool
+02.03.05. The Engine
+02.03.06. SQL Expressions
+02.03.07. SQLAlchemy ORM
+02.03.08. Mapping Between Tables and Classes
+02.03.09. Hello App with Flask SQLAlchemy- Part 1
+02.03.10. Connecting to the Database
+02.03.11. db.Model and Defining Models
+"02.03.12. Syncing Models, db.create_all()"
+"02.03.13. Inserting Records, Using Debug Mode"
+02.03.14. Experimenting in Interactive Mode
+02.03.15. SQLAlchemy Data Types
+02.03.16. SQLAlchemy Constraints
+02.03.17. Recap
+02.04.01. Introduction
+02.04.02. Model.Query
+02.04.03. SQLAlchemy Object Lifecycle- Part 1
+02.04.04. SQLAlchemy Object Lifecycle- Part 2
+02.04.05. Recap
+02.05.01. Introduction
+02.05.02. Create a Dummy ToDo App
+02.05.03. Reading ToDo items: the “R” in CRUD
+02.05.04. Model View Controller (MVC)
+02.05.05. Handling User Input
+02.05.06. Getting User Data in Flask- Part 1
+02.05.07. Getting User Data in Flask- Part 2
+02.05.08. Using AJAX to send data to flask
+02.05.09. Using Sessions in Controllers
+02.05.10. Recap
+02.06.01. Introduction (Migrations Part 1)
+02.06.02. Migrations- Part 2
+02.06.03. Flask Migrate- Part 1
+02.06.04. Flask Migrate- Part 2
+02.06.05. Flask Migrate- Part 3
+02.06.06. Flask Migrate- Part 4
+02.06.07. Recap
+02.07.01. Introduction
+02.07.02. Updating a Todo Item: Part I
+02.07.03. Updating a Todo Item: Part II
+02.07.04. DELETE a Todo Item- Exercise
+02.07.05. DELETE a Todo Item- Solution
+02.07.06. Intro: Modeling Relationships
+02.07.07. Review: Relationships and Joins
+02.07.08. db.relationship
+02.07.09. Configuring Relationships
+02.07.10. Foreign Key Constraint Setup
+02.07.11. One-to-Many Relationship Setup
+02.07.12. Practice- Modeling Relationships
+02.07.13. CRUD on a List of To-Dos
+02.07.14. CRUD on a List of To-Dos- Part 2
+02.07.15. Many-to-Many Relationships: Part I
+02.07.16. Many-to-Many Relationships: Part II
+02.07.17. Recap
+03.01.01. Welcome!
+03.01.02. What Are APIs
+03.01.03. How APIs Work
+03.01.04. Internet Protocols
+03.01.05. RESTful APIs
+03.01.06. Let’s Get Started!
+03.02.01. Overview
+03.02.02. Introduction to HTTP
+03.02.03. HTTP Requests
+03.02.04. Intro To Flask
+03.02.05. Introduction to Curl and Chrome Dev Tools
+03.02.06. Review
+03.03.01. Overview
+03.03.02. Organizing API Endpoints
+03.03.03. CORS
+03.03.04. Flask- CORS
+03.03.05. Flask Part II
+03.03.06. Error Handling
+03.03.07. Flask Error Handling
+03.03.08. Review
+03.04.01. Overview
+03.04.02. Testing In Flask
+03.04.03. Practice- Testing In Flask
+03.04.04. TDD for APIs
+03.04.05. Practice- TDD for APIs
+03.04.06. Review
+03.05.01. Overview
+03.05.02. Documentation Examples
+03.05.03. Best Practices
+03.05.04. API Documentation Lab
+03.05.05. Project Documentation
+03.05.06. Project Documentation Lab
+04.01.01. Course Intro
+04.01.02. Recap- HTTP, Flask, and Postman
+04.01.03. Recap- SQL Alchemy
+04.01.04. Recap- Python Decorators
+04.02.01. Lesson Intro
+04.02.02. Common Authentication Methods
+04.02.03. Alternative Authentication Methods
+04.02.04. Third Party Auth Systems
+04.02.05. Implementing Auth0
+04.02.06. JWT- JSON Web Tokens
+04.02.07. JWT- Datastructure
+04.02.08. Practice- Generating and Verifying JWTs
+04.02.09. Practice- Validating Auth0 Tokens
+04.02.11. Recap- Local Storage
+04.02.12. Storing JWTs
+04.02.13. Sending Tokens
+04.02.14. Practice- Sending Tokens
+04.02.15. Practice- Applying Skills in Flask
+04.02.16. Recap
+04.03.01. Lesson Intro
+04.03.02. Problems with Plain Text
+04.03.03. Problems- Brute Force Attacks
+04.03.04. Practice- Brute Force
+04.03.05. Problems- Data Handling
+04.03.06. Introduction to Encryption
+04.03.07. Using Encryption for User Tables
+04.03.08. Practice- Using Cryptography
+04.03.09. Asymmetric Encryption
+04.03.10. Hashing
+04.03.11. Practice- Rainbow Tables
+04.03.12. Hashing with Salts
+04.03.13. Practice- Salted, Hashed Passwords
+04.04.14. Recap
+04.01.01. Lesson Intro
+04.04.02. Role-Permission Based Access
+04.04.03. Defining Roles in Auth0
+04.04.04. Using RBAC in Flask
+04.04.05. Restricting Features in Frontend
+04.04.06. Recap
+04.05.01. Lesson Intro
+04.05.02. Limiting Access to Code and Systems
+04.05.03. Code Review for Security
+04.05.04. Auth Validation Testing
+04.05.05. Alternate Attack Vectors
+04.05.06. Staying Ahead of the Attackers
+04.05.07. Course Recap
+05.01.01. Intro
+05.02.01. Lesson Intro
+05.02.02. What is a Container?
+05.02.03. Containers vs. VMs
+05.02.04. Docker
+05.02.05. Docker Concepts
+05.02.06. DockerHub
+05.02.07. Dockerfiles
+05.02.08. Dockerfile exercises
+05.02.09. Lesson Summary
+05.03.01. Intro and Overview
+05.03.02. Kubernetes
+05.03.03. Kubernetes Concepts
+05.03.04. EKS: Kubernetes on AWS
+05.03.05. AWSCLI
+05.03.06. Installing eksctl
+05.03.07. Installing kuberctl
+05.03.08. Creating an EKS cluster
+05.03.09. CodePipeline
+05.03.10. CodeBuild
+05.03.11. Summary

@@ -1,0 +1,31 @@
+01.01. Welcome to the Full-Stack Web Developer Nanodegree Program,20m
+02.01. SQL and Data Modeling for the Web,20m
+02.02. Connecting & Interacting With Databases,4h
+02.03. SQLAlchemy Basics,2h
+02.04. SQLAlchemy ORM in Depth,2h
+02.05. Build a CRUD App with SQLAlchemy - Part 1,4h
+02.06. Migrations,2h
+02.07. Build a CRUD App with SQLAlchemy ORM- Part 2,4h
+02.08. Project: Fyyur,
+03.01. Introduction to APIs,1m
+03.02. HTTP and Flask Basics,1m
+03.04. Endpoints and Payloads,1m
+03.05. API Testing,1m
+03.06. Endpoints and Payloads,1m
+03.04. API Testing,1m
+03.05. API Documentation,1m
+03.06. Project: Trivia API,
+03.07. Take 30 Min to Improve Your LinkedIn,
+04.01 Foundation,1h 30m
+04.02 Identity and Authentication,5h 30m
+04.03. Passwords,3h 20m
+04.04. Access and Authorization,2h
+04.05. Thinking Adversarially,1h
+04.06. Project: Coffee Shop Full Stack,
+05.01. Introduction,1h 30m
+05.02. Containers,1h 30m
+05.03. Deployment,1h 30m
+05.04. Project: Deploy Your Flask App to Kubernetes using EKS,
+05.05: Optimize Your GitHub Profile,
+06.01. Capstone Prep and Deployment,
+06.02. Project: Capstone,
